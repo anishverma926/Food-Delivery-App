@@ -41,3 +41,5 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
     console.log(`🚀 Server started at http://localhost:${port}`);
 });
+
+// mongodb+srv://anishverma09072004_db_user:1hjnobzzpr1HMl1P@cluster0.ijmiz7d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
